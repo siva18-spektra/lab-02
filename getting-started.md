@@ -124,7 +124,7 @@ Use the **slider (three vertical dots)** located between the **Virtual Machine**
 
    ![](./Images/gs-12.png)
 
-1. On the **Succeddfully upgraded to Microsoft Fabric** window, click **OK** to continue.
+1. On the **Successfully upgraded to Microsoft Fabric** window, click **OK** to continue.
 
    ![](./Images/gs-13.png)
 
