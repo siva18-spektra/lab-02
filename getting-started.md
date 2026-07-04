@@ -90,8 +90,12 @@ Use the **slider (three vertical dots)** located between the **Virtual Machine**
 
 ## 🔑 Let's Get Started with the Power BI Service
 
-1. On your lab VM, open the **Microsoft Edge** browser and navigate to the [Power BI Service](https://app.powerbi.com).
+1. On the Lab VM, open **Microsoft Edge** from the desktop. In a new tab, navigate to **Microsoft Fabric** by copying and pasting the following URL into the address bar:
 
+   ```
+   https://app.powerbi.com/
+   ```
+   
 1. On the **Sign in** page, enter the following email and click **Submit (2)**.
 
    - **Email: (1)** <inject key="AzureAdUserEmail"></inject>
