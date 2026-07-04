@@ -56,31 +56,31 @@ Welcome to the **Publish, Share, and Enhance User Experience in Power BI** hands
 
 Once you're ready to dive in, your virtual machine and lab guide will be right at your fingertips within your web browser.
 
-![](./Images/gs-01.png)
+![](./Images/images/gs-01.png)
 
 ## 🧭 Exploring Your Lab Resources
 
 To get a better understanding of your lab resources and credentials, navigate to the **Environment** tab.
 
-![](./Images/gs-02.png)
+![](./Images/images/gs-02.png)
 
 ## 🛠️ Utilizing the Split Window Feature
 
 For convenience, you can open the lab guide in a separate window by selecting the **Split Window** button from the top right corner.
 
-![](./Images/gs-03.png)
+![](./Images/images/gs-03.png)
 
 ## ⚙️ Managing Your Virtual Machine
 
 Feel free to **start, stop, or restart (2)** your virtual machine as needed from the **Resources (1)** tab. Your experience is in your hands!
 
-![](./Images/gs-04.png)
+![](./Images/images/gs-04.png)
 
 ## 📖 Lab Guide Zoom In/Zoom Out
 
 To adjust the zoom level for the environment page, click the **A↕ : 100%** icon located next to the timer in the lab environment.
 
-![](./Images/gs-05.png)
+![](./Images/images/gs-05.png)
 
 ## Resize the Virtual Machine View
 
