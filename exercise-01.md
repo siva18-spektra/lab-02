@@ -39,7 +39,7 @@ In this task, you will open Power BI Desktop on the lab virtual machine and load
 
    * **Email/Username**: <inject key="AzureAdUserEmail"></inject>
 
-     ![](./ImageS/images/exercise-1/L2E1T1S3.png) 
+     ![](./Images/images/exercise-1/L2E1T1S3.png) 
 
 1. After clicking Continue, you will be prompted to sign in again. Use the credentials provided below to sign in, and then click **Next (2)** to proceed.
 
