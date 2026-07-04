@@ -21,7 +21,7 @@ In this exercise, you will complete the following tasks:
 
 ## 🧩 Architecture Diagram
 
-   ![](./Images/arch-exercise-01.png)
+   ![](./Images/arch-exercise-02.png)
 
 ## Task 1: Apply a layout grid and a theme (brand colours)
 
